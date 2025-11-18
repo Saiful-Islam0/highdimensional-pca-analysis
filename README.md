@@ -9,15 +9,7 @@ The following figures illustrate 2D PCA projections and the cumulative variance 
 
 ---
 
-## 📁 Figures  
-Place the images in your repository under:
 
-```
-figures/pca/fg1.png
-figures/pca/fg2.png
-figures/pca/fg3.png
-figures/pca/fg4.png
-```
 
 ---
 
